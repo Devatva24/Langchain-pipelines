@@ -1,0 +1,10 @@
+.env
+venv/
+_pycache_/
+*.pyc
+*.pkl
+*.h5
+*.pt
+*.ckpt
+*.dll
+*.so
